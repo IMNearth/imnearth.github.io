@@ -34,7 +34,10 @@ Preprints
 Publications
 </h2>
 
-### Conference Proceedings
+<h3 id="conf">
+Conference Proceedings
+</h3>
+
 
 [C6] **"UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents"** [CameraReady](https://aclanthology.org/2025.naacl-long.192.pdf) \
 &emsp; &emsp; 📒<u>Venue</u>: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**) (2025, November) \
@@ -67,7 +70,10 @@ Publications
 &emsp; &emsp; 🔑<u>Keywords</u>: Curriculum learning, vision-language navigation, embedied agent.
 
 
-### Technical Reports
+
+<h3 id="repo">
+Technical Reports
+</h3>
 
 
 [T2] **"Texthawk2: A large vision-language model excels in bilingual ocr and grounding with 16x fewer tokens"** [arXiv:2410.05261](https://arxiv.org/pdf/2410.05261) \
