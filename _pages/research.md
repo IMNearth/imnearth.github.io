@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-[Preprints](#preps) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Google Scholar Profile (Up to date)](https://scholar.google.com/citations?user=vBEAxZgAAAAJ&hl=en)
+[Preprints](#preps) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Google Scholar Profile (Up to date)](https://scholar.google.com/citations?user=wQCKDNQAAAAJ&hl=en)
 
 <h2 id="preps">
 Preprints
@@ -29,8 +29,6 @@ Preprints
 <h2 id="pubs">
 Publications
 </h2>
-
-### Conference Proceedings
 
 [C11] **"Your contrastive learning problem is secretly a distribution alignment problem"** \
 &emsp; &emsp; 🔥To appear at the Advances in Neural Information Processing Systems (**NeurIPS**) (2025) \
@@ -88,39 +86,3 @@ Publications
 &emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Cem Subakan, Aishwarya H Balwani, Jennifer Whitesell, Julie Harris, Sanmi Koyejo, Eva L Dyer \
 &emsp; &emsp; 🔑<u>Keywords</u>: Generative learning, interpretability, image synthesis.
 
-### Workshops and Posters
-
-[W4] **"Model-driven Heart Rate Estimation and Heart Murmur Detection based on Phonocardiogram"** [arXiv](https://arxiv.org/pdf/2407.18424) \
-&emsp; &emsp; IEEE International workshop on Machine Learning for Signal Processing (**MLSP**) (2024) \
-&emsp; &emsp; 👤<u>Authors</u>: Jingping Nie, **Ran Liu**, Behrooz Mahasseni, Erdrin Azemi, Vikramjit Mitra. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Machine learning for health, multi-task learning. \
-
-[W3] **"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** [arXiv](https://arxiv.org/pdf/2309.05927.pdf) \
-&emsp; &emsp; The International Conference on Learning Representations (**ICLR** Time Series for Health) (2024, May) \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
-
-[W2] **"Using self-supervision and augmentations to build insights into neural coding"** [CameraReady](https://sslneurips21.github.io/files/CameraReady/neural_ssl_workshop.pdf) \
-&emsp; &emsp; **NeurIPS** 2021 Workshop: Self-Supervised Learning - Theory and Practice (2021, December) \
-&emsp; &emsp; 👤<u>Authors</u>: Mehdi Azabou, Max Dabagia, **Ran Liu**, Chi-Heng Lin, Keith B Hengen, Eva L Dyer \
-&emsp; &emsp; 🔑<u>Keywords</u>: Neural decoding, self-supervision, data augmentation.
-
-[W1] **"Mine your own view: A self-supervised approach for learning representations of neural activity"** [CameraReady](https://sslneurips21.github.io/files/CameraReady/MYOW_NeurIPS_Workshop_SSL_2.pdf) \
-&emsp; &emsp; **NeurIPS** 2021 Workshop: Self-Supervised Learning - Theory and Practice (2021, December) \
-&emsp; &emsp; 👤<u>Authors</u>: Mehdi Azabou, Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, WashU-St Louis, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Representation learning, self-supervision, neural decoding.
-
-
-### Journal Articles
-
-[J3] **"Proximity-induced surface superconductivity in Dirac semimetal Cd<sub>3</sub>As<sub>2</sub>"** [CameraReady](https://www.nature.com/articles/s41467-019-10233-w) \
-&emsp; &emsp; **Nature communications** (2019, May) \
-&emsp; &emsp; 👤<u>Authors</u>: Ce Huang, Benjamin T Zhou, Huiqin Zhang, Bingjia Yang, **Ran Liu**, Hanwen Wang, Yimin Wan, Ke Huang, Zhiming Liao, Enze Zhang, Shanshan Liu, Qingsong Deng, Yanhui Chen, Xiaodong Han, Jin Zou, Xi Lin, Zheng Han, Yihua Wang, Kam Tuen Law, Faxian Xiu
-
-[J2] **"Quantum Hall effect based on Weyl orbits in Cd<sub>3</sub>As<sub>2</sub>"** [CameraReady](https://www.nature.com/articles/s41586-018-0798-3) \
-&emsp; &emsp; **Nature** (2019, January) \
-&emsp; &emsp; 👤<u>Authors</u>: Cheng Zhang, Yi Zhang, Xiang Yuan, Shiheng Lu, Jinglei Zhang, Awadhesh Narayan, Yanwen Liu, Huiqin Zhang, Zhuoliang Ni, **Ran Liu**, Eun Sang Choi, Alexey Suslov, Stefano Sanvito, Li Pi, Hai-Zhou Lu, Andrew C Potter, Faxian Xiu
-
-[J1] **"Inducing Strong Superconductivity in WTe<sub>2</sub> by a Proximity Effect"** [CameraReady](https://pubs.acs.org/doi/abs/10.1021/acsnano.8b03102) \
-&emsp; &emsp; **ACS nano** (2018, June) \
-&emsp; &emsp; 👤<u>Authors</u>: Ce Huang, Awadhesh Narayan, Enze Zhang, Yanwen Liu, Xiao Yan, Jiaxiang Wang, Cheng Zhang, Weiyi Wang, Tong Zhou, Changjiang Yi, Shanshan Liu, Jiwei Ling, Huiqin Zhang, **Ran Liu**, Raman Sankar, Fangcheng Chou, Yihua Wang, Youguo Shi, Kam Tuen Law, Stefano Sanvito, Peng Zhou, Zheng Han, Faxian Xiu
