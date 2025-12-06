@@ -23,7 +23,7 @@ repository               : "IMNearth/imnearth.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "imnearth.jpg"
+  avatar           : "imnearth_new.jpg"
   name             : "Jiwen Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Explore & Enjoy."
