@@ -12,17 +12,17 @@ author_profile: true
 Preprints
 </h2>
 
-**Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning** [arXiv:2509.22746](https://arxiv.org/pdf/2509.22746?) \
+[P3] **Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning** [arXiv:2509.22746](https://arxiv.org/pdf/2509.22746?) \
 &emsp; &emsp; 🔥Under Review. \
 &emsp; &emsp; 👤<u>Authors</u>: Zejun Li, Yingxiu Zhao, **Jiwen Zhang**, Siyuan Wang, Yang Yao, Runzhou Zhao, Jun Song, Bo Zheng, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Chain of thought, visual reasoning, multi-modal large language models.
 
-**"AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs"** [arXiv:2505.21389](https://arxiv.org/pdf/2505.21389?) \
+[P2] **"AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs"** [arXiv:2505.21389](https://arxiv.org/pdf/2505.21389?) \
 &emsp; &emsp; 🔥Under Review. \
 &emsp; &emsp; 👤<u>Authors</u>: Xuanwen Ding, Chengjun Pan, Zejun Li, **Jiwen Zhang**, Siyuan Wang, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Efficient benchmarking, multi-modal large language models, judging agent.
 
-**"Continuous or discrete, that is the question: A survey on large multi-modal models from the perspective of input-output space extension"** [PrePrints:202411.0685](https://www.preprints.org/frontend/manuscript/8267896f227ef3f94a645a6b196f0b46/download_pub) \
+[P1] **"Continuous or discrete, that is the question: A survey on large multi-modal models from the perspective of input-output space extension"** [PrePrints:202411.0685](https://www.preprints.org/frontend/manuscript/8267896f227ef3f94a645a6b196f0b46/download_pub) \
 &emsp; &emsp; 🔥Under Review. \
 &emsp; &emsp; 👤<u>Authors</u>: Zejun Li, **Jiwen Zhang**, Dianyi Wang, Ye Wang, Xuanjing Huang, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Survey, large multi-modal models, input-output space extension.
