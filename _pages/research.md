@@ -43,7 +43,7 @@ Conference Proceedings
 &emsp; &emsp; 👤<u>Authors</u>: **Jiwen Zhang**\*, Ya-Qi Yu\*, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: GUI navigation, large multi-modal models, supervised fine-tuning.
 
-[C5] **"Vocot: Unleashing visually grounded multi-step reasoning in large multi-modal models"** [CameraReady](https://aclanthology.org/2025.naacl-long.192.pdf)
+[C5] **"Vocot: Unleashing visually grounded multi-step reasoning in large multi-modal models"** [CameraReady](https://aclanthology.org/2025.naacl-long.192.pdf) \
 &emsp; &emsp; 📒<u>Venue</u>: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) (2025, April) \
 &emsp; &emsp; 👤<u>Authors</u>: Zejun Li\*, Ruipu Luo\*, **Jiwen Zhang**, Minghui Qiu, Xuan-Jing Huang, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Large multi-modal models, visual reasoning, chain-of-thought.
@@ -53,7 +53,7 @@ Conference Proceedings
 &emsp; &emsp; 👤<u>Authors</u>: Zejun Li\*, Ye Wang\*, Mengfei Du\*, Qingwen Liu\*, Binhao Wu\*, **Jiwen Zhang**,\* Chengxing Zhou, Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Large multi-modal models, evaluation.
 
-[C3] **"Android in the zoo: Chain-of-action-thought for gui agents"** [CameraReady](https://aclanthology.org/2024.findings-emnlp.702.pdf)
+[C3] **"Android in the zoo: Chain-of-action-thought for gui agents"** [CameraReady](https://aclanthology.org/2024.findings-emnlp.702.pdf) \
 &emsp; &emsp; 📒<u>Venue</u>: Findings of the Association for Computational Linguistics: EMNLP 2024 (**EMNLP Findings**) (2024, November) \
 &emsp; &emsp; 👤<u>Authors</u>: **Jiwen Zhang**, Jihao Wu, Teng Yihua, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang. \
 &emsp; &emsp; 🔑<u>Keywords</u>: GUI navigation, prompt engineering, supervised fine-tuning.
