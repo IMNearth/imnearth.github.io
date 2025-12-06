@@ -34,17 +34,17 @@ Publications
 
 [C6] **"UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents"** [CameraReady](https://aclanthology.org/2025.naacl-long.192.pdf) \
 &emsp; &emsp; Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**) (2025, November) \
-&emsp; &emsp; 👤<u>Authors</u>: **Jiwen Zhang**<sup>*</sup>, Ya-Qi Yu<sup>*</sup>, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu Wei. \
+&emsp; &emsp; 👤<u>Authors</u>: **Jiwen Zhang**\*, Ya-Qi Yu\*, Minghui Liao, Wentao Li, Jihao Wu, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: GUI navigation, large multi-modal models, supervised fine-tuning.
 
 [C5] **"Vocot: Unleashing visually grounded multi-step reasoning in large multi-modal models"** [CameraReady](https://aclanthology.org/2025.naacl-long.192.pdf)
 &emsp; &emsp; Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) (2025, April) \
-&emsp; &emsp; 👤<u>Authors</u>: Zejun Li<sup>*</sup>, Ruipu Luo<sup>*</sup>, **Jiwen Zhang**, Minghui Qiu, Xuan-Jing Huang, Zhongyu Wei. \
+&emsp; &emsp; 👤<u>Authors</u>: Zejun Li\*, Ruipu Luo\*, **Jiwen Zhang**, Minghui Qiu, Xuan-Jing Huang, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Large multi-modal models, visual reasoning, chain-of-thought.
 
 [C4] **"Reform-eval: Evaluating large vision language models via unified re-formulation of task-oriented benchmarks"** [CameraReady](https://dl.acm.org/doi/10.1145/3664647.3681529) \
 &emsp; &emsp; Proceedings of the 32nd ACM International Conference on Multimedia (**ACM MM**) (2024, October) \
-&emsp; &emsp; 👤<u>Authors</u>: Zejun Li<sup>*</sup>, Ye Wang<sup>*</sup>, Mengfei Du<sup>*</sup>, Qingwen Liu<sup>*</sup>, Binhao Wu<sup>*</sup>, **Jiwen Zhang**,<sup>*</sup> Chengxing Zhou, Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang. \
+&emsp; &emsp; 👤<u>Authors</u>: Zejun Li\*, Ye Wang\*, Mengfei Du\*, Qingwen Liu\*, Binhao Wu\*, **Jiwen Zhang**,\* Chengxing Zhou, Zhihao Fan, Jie Fu, Jingjing Chen, Zhongyu Wei, Xuanjing Huang. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Large multi-modal models, evaluation.
 
 [C3] **"Android in the zoo: Chain-of-action-thought for gui agents"** [CameraReady](https://aclanthology.org/2024.findings-emnlp.702.pdf)
@@ -54,7 +54,7 @@ Publications
 
 [C2] **"DELAN: Dual-level alignment for vision-and-language navigation by cross-modal contrastive learning"** [CameraReady](https://aclanthology.org/2024.lrec-main.411.pdf) \
 &emsp; &emsp; Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**) (2024, May) \
-&emsp; &emsp; 👤<u>Authors</u>: Mengfei Du<sup>*</sup>, Binhao Wu<sup>*</sup>, **Jiwen Zhang**, Zhihao Fan, Zejun Li, Ruipu Luo, Xuan-Jing Huang, Zhongyu Wei. \
+&emsp; &emsp; 👤<u>Authors</u>: Mengfei Du\*, Binhao Wu\*, **Jiwen Zhang**, Zhihao Fan, Zejun Li, Ruipu Luo, Xuan-Jing Huang, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Contrastive learning, vision-language navigation, cross-modal alignment.
 
 [C1] **"Curriculum Learning for Vision-and-Language Navigation"** [CameraReady](https://proceedings.neurips.cc/paper_files/paper/2021/file/6f0442558302a6ededff195daf67f79b-Paper.pdf) \

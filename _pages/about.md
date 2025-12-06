@@ -11,7 +11,7 @@ redirect_from:
 I am a fifth-year PhD candidate at the School of Data Science, Fudan University. My supervisor are Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ&hl=en) and Prof. [Jianqing Fan](https://scholar.google.com/citations?user=TaF4L4EAAAAJ&hl=en). Previously, I got my Bachelor’s degree from Fudan University majoring in data science. I am currently visiting the [V3ALab](https://v3alab.github.io/) at Australian Institute for Machine Learning (AIML), advised by Prof. [Qi Wu](https://scholar.google.com/citations?user=aKXe1FEAAAAJ&hl=en). 
 
 
-My research interests are to advance multimodal and embodied intelligence, by utilizing multimodal large language models (MLLMs) that can perceive, reason, and act in rich, interactive environments. Currently, I have explored the following topics:
+My research interests are to advance embodied intelligence🤖, by utilizing multimodal large language models (MLLMs) that can perceive👀, reason🤔, and act🚗 in rich, interactive environments. Currently, I have explored the following topics:
 
 * **Vision-Language Navigation and GUI Navigation**: Curriculum Learning ([NeurIPS'21](https://github.com/IMNearth/Curriculum-Learning-For-VLN)), Unit-grained Hybrid Learning ([arXiv'23](https://arxiv.org/abs/2307.08016)), Contrastive Learning ([COLING'24](https://aclanthology.org/2024.lrec-main.411/)) for VLN. Chain-of-Action Thought ([EMNLP'24](https://aclanthology.org/2024.findings-emnlp.702/)), Multi-Screen Understanding ([EMNLP'25](https://uihawk.github.io/)) for GUI Nav.
 
