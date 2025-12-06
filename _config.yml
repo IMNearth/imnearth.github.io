@@ -26,8 +26,8 @@ author:
   avatar           : "imnearth.png"
   name             : "Jiwen Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Final Year PhD Student. Explore & Enjoy."
-  location         : "Earth"
+  bio              : "Final-year PhD Student.\nExplore & Enjoy."
+  location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
   email            : "jiwenzhang21@m.fudan.edu.cn" 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
