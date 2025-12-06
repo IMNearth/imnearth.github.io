@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="font-size: 16px; line-height: 1.6;">
 
 [Preprints](#preps) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [Google Scholar Profile (Up to date)](https://scholar.google.com/citations?user=wQCKDNQAAAAJ&hl=en)
 
@@ -84,4 +83,3 @@ Technical Reports
 &emsp; &emsp; 👤<u>Authors</u>: Ruipu Luo, **Jiwen Zhang**, Zhongyu Wei. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Vision language dicison making, hybrid learning.
 
-</div>
