@@ -13,12 +13,12 @@ I am a fifth-year PhD candidate at the School of Data Science, Fudan University.
 
 My research interests are to advance multimodal and embodied intelligence, by utilizing multimodal large language models (MLLMs) that can perceive, reason, and act in rich, interactive environments. Currently, I have explored the following topics:
 
-* Vision-Language Navigation and GUI Navigation: Curriculum Learning ([NeurIPS'21](https://github.com/IMNearth/Curriculum-Learning-For-VLN)), Unit-grained Hybrid Learning ([Arxiv'23](https://arxiv.org/abs/2307.08016)), Contrastive Learning ([COLING'24](https://aclanthology.org/2024.lrec-main.411/)) for VLN. Chain-of-Action Thought ([EMNLP'24](https://aclanthology.org/2024.findings-emnlp.702/)), Multi-Screen Understanding ([EMNLP'25](https://uihawk.github.io/)) for GUI Nav.
+* **Vision-Language Navigation and GUI Navigation**: Curriculum Learning ([NeurIPS'21](https://github.com/IMNearth/Curriculum-Learning-For-VLN)), Unit-grained Hybrid Learning ([Arxiv'23](https://arxiv.org/abs/2307.08016)), Contrastive Learning ([COLING'24](https://aclanthology.org/2024.lrec-main.411/)) for VLN. Chain-of-Action Thought ([EMNLP'24](https://aclanthology.org/2024.findings-emnlp.702/)), Multi-Screen Understanding ([EMNLP'25](https://uihawk.github.io/)) for GUI Nav.
 
-* Large-scale Pretraining and Post-Training for MLLMs: Grounding-oriented Pre-training ([Arxiv'24](https://github.com/yuyq96/TextHawk)), Large-scale Supervised Fine-Tuning ([EMNLP'25](https://uihawk.github.io/)), Visually Grounded Reasoning ([NAACL'25](https://aclanthology.org/2025.naacl-long.192/)) and Adaptive Visual Reasoning ([Arxiv'25](https://arxiv.org/abs/2509.22746)).
+* **Large-scale Pretraining and Post-Training for MLLMs**: Grounding-oriented Pre-training ([Arxiv'24](https://github.com/yuyq96/TextHawk)), Large-scale Supervised Fine-Tuning ([EMNLP'25](https://uihawk.github.io/)), Visually Grounded Reasoning ([NAACL'25](https://aclanthology.org/2025.naacl-long.192/)) and Adaptive Visual Reasoning ([Arxiv'25](https://arxiv.org/abs/2509.22746)).
 
 
-* Benchmarking of Multimodal & Embodied Models: Unified reformulation of multimodal tasks ([ACM MM'2024](https://dl.acm.org/doi/abs/10.1145/3664647.3681529)), Agent-based Efficient Benchmarking ([ArXiv'25](https://github.com/IMNearth/AutoJudger)) for MLLMs, Fundamental Abilities Evaluation of GUI Agents ([EMNLP'25](https://uihawk.github.io/)). 
+* **Benchmarking of Multimodal & Embodied Models**: Unified reformulation of multimodal tasks ([ACM MM'2024](https://dl.acm.org/doi/abs/10.1145/3664647.3681529)), Agent-based Efficient Benchmarking ([ArXiv'25](https://github.com/IMNearth/AutoJudger)) for MLLMs, Fundamental Abilities Evaluation of GUI Agents ([EMNLP'25](https://uihawk.github.io/)). 
 
 
 I expect to graduate in September 2026 and am currently seeking job and internship opportunities.
