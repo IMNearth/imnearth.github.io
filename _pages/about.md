@@ -27,4 +27,4 @@ I expect to graduate in September 2026 and am currently seeking job and internsh
 ### Contact Me
 
 * My email address is jiwenzhang21{at}m{dot}fudan{dot}edu{dot}cn
-* My full CV is [here](https://imnearth.github.io/files/_CV__Jiwen_Zhang.pdf). (Updated July, 2025)
+* My full CV is [here](https://imnearth.github.io/files/CV__Jiwen_Zhang.pdf). (Updated July, 2025)
